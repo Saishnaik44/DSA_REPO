@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Saishnaik44/DSA_REPO/tree/master/0203-remove-linked-list-elements) |
+## Array
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Saishnaik44/DSA_REPO/tree/master/0605-can-place-flowers) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Saishnaik44/DSA_REPO/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
