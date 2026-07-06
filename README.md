@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Saishnaik44/DSA_REPO/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Saishnaik44/DSA_REPO/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -21,9 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Saishnaik44/DSA_REPO/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/Saishnaik44/DSA_REPO/tree/master/0605-can-place-flowers) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Saishnaik44/DSA_REPO/tree/master/0605-can-place-flowers) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Saishnaik44/DSA_REPO/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
