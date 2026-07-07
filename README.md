@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Saishnaik44/DSA_REPO/tree/master/0058-length-of-last-word) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Saishnaik44/DSA_REPO/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
