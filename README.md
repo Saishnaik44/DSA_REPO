@@ -47,4 +47,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Saishnaik44/DSA_REPO/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Saishnaik44/DSA_REPO/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Saishnaik44/DSA_REPO/tree/master/1757-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
