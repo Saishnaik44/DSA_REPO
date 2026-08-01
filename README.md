@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Saishnaik44/DSA_REPO/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Saishnaik44/DSA_REPO/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Saishnaik44/DSA_REPO/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saishnaik44/DSA_REPO/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Saishnaik44/DSA_REPO/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Saishnaik44/DSA_REPO/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
