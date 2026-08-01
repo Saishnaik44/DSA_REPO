@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Saishnaik44/DSA_REPO/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Saishnaik44/DSA_REPO/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Saishnaik44/DSA_REPO/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saishnaik44/DSA_REPO/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Linked List
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Saishnaik44/DSA_REPO/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Saishnaik44/DSA_REPO/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saishnaik44/DSA_REPO/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Saishnaik44/DSA_REPO/tree/master/0605-can-place-flowers) |
 ## Greedy
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0101-symmetric-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Saishnaik44/DSA_REPO/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
