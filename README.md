@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Saishnaik44/DSA_REPO/tree/master/0058-length-of-last-word) |
+| [0168-excel-sheet-column-title](https://github.com/Saishnaik44/DSA_REPO/tree/master/0168-excel-sheet-column-title) |
 ## Database
 |  |
 | ------- |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Saishnaik44/DSA_REPO/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/Saishnaik44/DSA_REPO/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
