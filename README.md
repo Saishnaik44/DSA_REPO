@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saishnaik44/DSA_REPO/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Saishnaik44/DSA_REPO/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Saishnaik44/DSA_REPO/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Saishnaik44/DSA_REPO/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Saishnaik44/DSA_REPO/tree/master/0219-contains-duplicate-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Saishnaik44/DSA_REPO/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/Saishnaik44/DSA_REPO/tree/master/0605-can-place-flowers) |
 ## Sorting
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Saishnaik44/DSA_REPO/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/Saishnaik44/DSA_REPO/tree/master/0097-interleaving-string) |
 ## Matrix
 |  |
