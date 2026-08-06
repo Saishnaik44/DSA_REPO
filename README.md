@@ -108,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Saishnaik44/DSA_REPO/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Saishnaik44/DSA_REPO/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Saishnaik44/DSA_REPO/tree/master/0144-binary-tree-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Saishnaik44/DSA_REPO/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Saishnaik44/DSA_REPO/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
