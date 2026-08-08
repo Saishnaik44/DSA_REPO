@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saishnaik44/DSA_REPO/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Saishnaik44/DSA_REPO/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Saishnaik44/DSA_REPO/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saishnaik44/DSA_REPO/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Saishnaik44/DSA_REPO/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saishnaik44/DSA_REPO/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Saishnaik44/DSA_REPO/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Saishnaik44/DSA_REPO/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Saishnaik44/DSA_REPO/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Saishnaik44/DSA_REPO/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saishnaik44/DSA_REPO/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Saishnaik44/DSA_REPO/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saishnaik44/DSA_REPO/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Saishnaik44/DSA_REPO/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saishnaik44/DSA_REPO/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saishnaik44/DSA_REPO/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
@@ -170,4 +173,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Saishnaik44/DSA_REPO/tree/master/0144-binary-tree-preorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saishnaik44/DSA_REPO/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saishnaik44/DSA_REPO/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saishnaik44/DSA_REPO/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
