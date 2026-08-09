@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Saishnaik44/DSA_REPO/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Saishnaik44/DSA_REPO/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -123,11 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Saishnaik44/DSA_REPO/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Saishnaik44/DSA_REPO/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Saishnaik44/DSA_REPO/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Saishnaik44/DSA_REPO/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Saishnaik44/DSA_REPO/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Saishnaik44/DSA_REPO/tree/master/0199-binary-tree-right-side-view) |
 ## Sliding Window
 |  |
 | ------- |
