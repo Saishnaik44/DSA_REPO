@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saishnaik44/DSA_REPO/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Saishnaik44/DSA_REPO/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Saishnaik44/DSA_REPO/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Saishnaik44/DSA_REPO/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Saishnaik44/DSA_REPO/tree/master/0118-pascals-triangle) |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saishnaik44/DSA_REPO/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Saishnaik44/DSA_REPO/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
