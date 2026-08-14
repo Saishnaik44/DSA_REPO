@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Saishnaik44/DSA_REPO/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Saishnaik44/DSA_REPO/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Saishnaik44/DSA_REPO/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Saishnaik44/DSA_REPO/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/Saishnaik44/DSA_REPO/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/Saishnaik44/DSA_REPO/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Saishnaik44/DSA_REPO/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Saishnaik44/DSA_REPO/tree/master/0171-excel-sheet-column-number) |
 ## Database
