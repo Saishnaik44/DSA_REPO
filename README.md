@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saishnaik44/DSA_REPO/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saishnaik44/DSA_REPO/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Saishnaik44/DSA_REPO/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Saishnaik44/DSA_REPO/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saishnaik44/DSA_REPO/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Linked List
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Saishnaik44/DSA_REPO/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saishnaik44/DSA_REPO/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Saishnaik44/DSA_REPO/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saishnaik44/DSA_REPO/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Saishnaik44/DSA_REPO/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Saishnaik44/DSA_REPO/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Saishnaik44/DSA_REPO/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Saishnaik44/DSA_REPO/tree/master/0242-valid-anagram) |
 ## Database
 |  |
 | ------- |
