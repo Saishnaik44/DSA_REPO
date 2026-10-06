@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saishnaik44/DSA_REPO/tree/master/0001-two-sum) |
+| [0040-combination-sum-ii](https://github.com/Saishnaik44/DSA_REPO/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Saishnaik44/DSA_REPO/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Saishnaik44/DSA_REPO/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Saishnaik44/DSA_REPO/tree/master/0055-jump-game) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Saishnaik44/DSA_REPO/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Saishnaik44/DSA_REPO/tree/master/0046-permutations) |
 ## Design
 |  |
